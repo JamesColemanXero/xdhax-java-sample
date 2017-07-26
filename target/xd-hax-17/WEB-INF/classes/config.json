@@ -1,0 +1,8 @@
+{ 
+	"AppType" : "PUBLIC",
+	"UserAgent" : "Xero + AWS Debt Collector Public",
+	"ConsumerKey" : "WTXXXXXXXXXXXXXXXXXXXXXXXXXXKG",
+	"ConsumerSecret" : "GJXXXXXXXXXXXXXXXXXXXXXXXXXXXXWZ",
+	"CallbackBaseUrl" : "http://localhost:8080/xd-hax-17",
+	"CallbackPath" : "/CallbackServlet"
+}

@@ -1,0 +1,13 @@
+com/xero/app/Settings.class
+com/xero/app/Client.class
+com/xero/app/JsonConfig.class
+com/xero/app/Storage.class
+com/xero/app/DashboardServlet.class
+com/xero/app/EmailServlet.class
+com/xero/app/SignUpConfirmation.class
+com/xero/app/Signout.class
+com/xero/app/CallbackServlet.class
+com/xero/app/SignUp.class
+com/xero/app/RequestTokenServlet.class
+com/xero/app/Invoices.class
+com/xero/app/SignIn.class
